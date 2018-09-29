@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Account" verbose="1" >
+    <test name="Account">
+        <classes>
+            <class name="com.kismia.AccountTest"/>
+        </classes>
+    </test>
+</suite>
