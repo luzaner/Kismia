@@ -8,9 +8,9 @@ import static org.testng.Assert.assertTrue;
 
 public class AccountTest extends FunctionalTest {
 
-    static final String LOGIN = "illia.luzan411@gmail.com";
+    static final String LOGIN = ""; // enter your login
 
-    static final String PASSWORD = "TESTkismia";
+    static final String PASSWORD = ""; // enter your password
 
     private HomePage homePageObject;
 
