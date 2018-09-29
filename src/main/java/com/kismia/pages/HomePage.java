@@ -28,9 +28,9 @@ public class HomePage extends PageObject {
     }
 
     /**
-     * Get welcome phrase from login page
+     * Welcome phrase is enabled from login page
      *
-     * @return String from login page
+     * @return boolean if welcome phrase is enabled
      */
     public boolean isWelcomePhrase() {
         return this.driver.findElement(By.cssSelector(WELCOME_PHRASE_SELECTOR)).isEnabled();
