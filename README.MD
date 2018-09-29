@@ -1,17 +1,17 @@
-Kismia test framework
+*Kismia test framework*
 
 This project is a test framework for website kismia.com. Technology stack includes Selenium WebDriver, TestNG and Java. The Page Object pattern was used to design framework.
 
-Getting Started
+*Getting Started*
 
 1. Clone or download this repository
 2. Specify destination of Webdriver in pom.xml file in <webdriver.chrome.driver> line
 3. Run tests with IDE or with command `mvn install` from the root folder of project
 
-Prerequisites
+*Prerequisites*
 
 For this project needs to install JDK, download Webdriver for your browser, install Maven. 
 
-Authors
+*Authors*
 
 Illia Luzan - automation QA engineer
